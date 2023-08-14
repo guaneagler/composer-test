@@ -1,0 +1,12 @@
+{
+    "name": "guaneagler/composer-test",
+    "description": "One hello world package to learn composer package.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Eagle",
+            "email": "v.eagle@ciandt.com"
+        }
+    ],
+    "require": {}
+}
